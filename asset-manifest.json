@@ -1,15 +1,29 @@
 {
   "files": {
-    "main.css": "/rs_auto/static/css/main.7c698da0.css",
-    "main.js": "/rs_auto/static/js/main.4cb2790c.js",
-    "static/js/453.48e651ae.chunk.js": "/rs_auto/static/js/453.48e651ae.chunk.js",
+    "main.css": "/rs_auto/static/css/main.88dd6764.css",
+    "main.js": "/rs_auto/static/js/main.89a1a72f.js",
+    "static/js/453.b1c20d7d.chunk.js": "/rs_auto/static/js/453.b1c20d7d.chunk.js",
+    "static/media/wheel.svg": "/rs_auto/static/media/wheel.333b28cd258bf68464b70af992c49207.svg",
+    "static/media/chassis.svg": "/rs_auto/static/media/chassis.ed902d8c6748a44d4275b1fe8dfdb38b.svg",
+    "static/media/other.svg": "/rs_auto/static/media/other.38ca922464624137437f2592bfdbe581.svg",
+    "static/media/engine.svg": "/rs_auto/static/media/engine.84590137b5649019505b4db48d459a2d.svg",
+    "static/media/electric.svg": "/rs_auto/static/media/electric.78acc8329a763cc7cb8a729b76605579.svg",
     "index.html": "/rs_auto/index.html",
-    "main.7c698da0.css.map": "/rs_auto/static/css/main.7c698da0.css.map",
-    "main.4cb2790c.js.map": "/rs_auto/static/js/main.4cb2790c.js.map",
-    "453.48e651ae.chunk.js.map": "/rs_auto/static/js/453.48e651ae.chunk.js.map"
+    "static/media/chip.svg": "/rs_auto/static/media/chip.36b82914a06430c8d64eb60286e54306.svg",
+    "static/media/color.svg": "/rs_auto/static/media/color.83cea5c262f0be52ce15f0dc1cd61c2c.svg",
+    "static/media/air_conditioner.svg": "/rs_auto/static/media/air_conditioner.9f3038db4e4e519ff97e1ff333c33a53.svg",
+    "static/media/stop.svg": "/rs_auto/static/media/stop.ba8ad9340f2e4a5a14edd164eef2ecfe.svg",
+    "static/media/garage_car.svg": "/rs_auto/static/media/garage_car.704177429462f32e4d285073626bd34d.svg",
+    "static/media/muffler.svg": "/rs_auto/static/media/muffler.cbf957194fbeae255447a0d57aecd958.svg",
+    "static/media/steering_wheel.svg": "/rs_auto/static/media/steering_wheel.9b761f0c656ab86a071328234d96f5fa.svg",
+    "static/media/turbine.svg": "/rs_auto/static/media/turbine.6440fb0a16a9c86a41da712f7dd148c7.svg",
+    "static/media/rail.svg": "/rs_auto/static/media/rail.11997edfaaf8240af3e3d025e1c54473.svg",
+    "main.88dd6764.css.map": "/rs_auto/static/css/main.88dd6764.css.map",
+    "main.89a1a72f.js.map": "/rs_auto/static/js/main.89a1a72f.js.map",
+    "453.b1c20d7d.chunk.js.map": "/rs_auto/static/js/453.b1c20d7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c698da0.css",
-    "static/js/main.4cb2790c.js"
+    "static/css/main.88dd6764.css",
+    "static/js/main.89a1a72f.js"
   ]
 }
