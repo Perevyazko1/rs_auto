@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rs_auto/static/css/main.71807225.css",
-    "main.js": "/rs_auto/static/js/main.c210125e.js",
+    "main.css": "/rs_auto/static/css/main.4323e5a2.css",
+    "main.js": "/rs_auto/static/js/main.b9d54724.js",
     "static/js/453.b1c20d7d.chunk.js": "/rs_auto/static/js/453.b1c20d7d.chunk.js",
     "static/media/Telegram.jpg": "/rs_auto/static/media/Telegram.ab2354c41e352caec7b7.jpg",
     "static/media/stop.png": "/rs_auto/static/media/stop.07c7e7776689b8746ccb.png",
@@ -13,20 +13,22 @@
     "static/media/wheeel.png": "/rs_auto/static/media/wheeel.b1c6dac4f4c917fbcc5a.png",
     "static/media/rail.png": "/rs_auto/static/media/rail.885dc560e2aa0f38bd39.png",
     "static/media/other.png": "/rs_auto/static/media/other.ec26a007b4264a08279b.png",
+    "static/media/telegram.png": "/rs_auto/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/call.png": "/rs_auto/static/media/call.9f67e819001cd616ba13.png",
     "static/media/color.png": "/rs_auto/static/media/color.f089046275a4f142ac2e.png",
     "static/media/chassis.png": "/rs_auto/static/media/chassis.5d1a424384e966f57adf.png",
     "static/media/electric.png": "/rs_auto/static/media/electric.9afc65d4b3f42d35d8cf.png",
     "static/media/chip.png": "/rs_auto/static/media/chip.8a1d1946203352e328be.png",
-    "static/media/cross.svg": "/rs_auto/static/media/cross.e1068527f249da5e789b934fd5ac4096.svg",
     "index.html": "/rs_auto/index.html",
-    "static/media/calendar.svg": "/rs_auto/static/media/calendar.81aa20e1304cd4b04b2563f7416d847c.svg",
-    "static/media/record.svg": "/rs_auto/static/media/record.8af2de6fcd3ffe6c99b43dbc8b0f5f68.svg",
-    "main.71807225.css.map": "/rs_auto/static/css/main.71807225.css.map",
-    "main.c210125e.js.map": "/rs_auto/static/js/main.c210125e.js.map",
+    "static/media/menu.svg": "/rs_auto/static/media/menu.1a60b40c5971651743bc5ef85a9794d6.svg",
+    "static/media/minus.svg": "/rs_auto/static/media/minus.366caf75c160cc137a6856ac84ac1cd4.svg",
+    "static/media/record.svg": "/rs_auto/static/media/record.d1712eb7c7e9c71079b3dce01c8659a1.svg",
+    "main.4323e5a2.css.map": "/rs_auto/static/css/main.4323e5a2.css.map",
+    "main.b9d54724.js.map": "/rs_auto/static/js/main.b9d54724.js.map",
     "453.b1c20d7d.chunk.js.map": "/rs_auto/static/js/453.b1c20d7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71807225.css",
-    "static/js/main.c210125e.js"
+    "static/css/main.4323e5a2.css",
+    "static/js/main.b9d54724.js"
   ]
 }
