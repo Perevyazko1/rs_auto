@@ -1,10 +1,8 @@
 {
   "files": {
-    "main.css": "/rs_auto/static/css/main.3563995e.css",
+    "main.css": "/rs_auto/static/css/main.d60b2cc4.css",
     "main.js": "/rs_auto/static/js/main.49104fe0.js",
     "static/js/453.48e651ae.chunk.js": "/rs_auto/static/js/453.48e651ae.chunk.js",
-    "static/media/bonus_card.jpg": "/rs_auto/static/media/bonus_card.548cd066cddfff1b251f.jpg",
-    "static/media/Telegram.jpg": "/rs_auto/static/media/Telegram.ab2354c41e352caec7b7.jpg",
     "static/media/stop.png": "/rs_auto/static/media/stop.07c7e7776689b8746ccb.png",
     "static/media/steering_wheel.png": "/rs_auto/static/media/steering_wheel.5823673962a58ef61445.png",
     "static/media/engine.png": "/rs_auto/static/media/engine.4dca7c6e039309695d23.png",
@@ -24,12 +22,12 @@
     "static/media/menu.svg": "/rs_auto/static/media/menu.1a60b40c5971651743bc5ef85a9794d6.svg",
     "static/media/minus.svg": "/rs_auto/static/media/minus.366caf75c160cc137a6856ac84ac1cd4.svg",
     "static/media/record.svg": "/rs_auto/static/media/record.d1712eb7c7e9c71079b3dce01c8659a1.svg",
-    "main.3563995e.css.map": "/rs_auto/static/css/main.3563995e.css.map",
+    "main.d60b2cc4.css.map": "/rs_auto/static/css/main.d60b2cc4.css.map",
     "main.49104fe0.js.map": "/rs_auto/static/js/main.49104fe0.js.map",
     "453.48e651ae.chunk.js.map": "/rs_auto/static/js/453.48e651ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3563995e.css",
+    "static/css/main.d60b2cc4.css",
     "static/js/main.49104fe0.js"
   ]
 }
