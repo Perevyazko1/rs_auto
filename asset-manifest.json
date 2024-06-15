@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rs_auto/static/css/main.d60b2cc4.css",
-    "main.js": "/rs_auto/static/js/main.69ef3384.js",
+    "main.js": "/rs_auto/static/js/main.af40547e.js",
     "static/js/453.48e651ae.chunk.js": "/rs_auto/static/js/453.48e651ae.chunk.js",
     "static/media/stop.png": "/rs_auto/static/media/stop.07c7e7776689b8746ccb.png",
     "static/media/steering_wheel.png": "/rs_auto/static/media/steering_wheel.5823673962a58ef61445.png",
@@ -23,11 +23,11 @@
     "static/media/minus.svg": "/rs_auto/static/media/minus.366caf75c160cc137a6856ac84ac1cd4.svg",
     "static/media/record.svg": "/rs_auto/static/media/record.d1712eb7c7e9c71079b3dce01c8659a1.svg",
     "main.d60b2cc4.css.map": "/rs_auto/static/css/main.d60b2cc4.css.map",
-    "main.69ef3384.js.map": "/rs_auto/static/js/main.69ef3384.js.map",
+    "main.af40547e.js.map": "/rs_auto/static/js/main.af40547e.js.map",
     "453.48e651ae.chunk.js.map": "/rs_auto/static/js/453.48e651ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d60b2cc4.css",
-    "static/js/main.69ef3384.js"
+    "static/js/main.af40547e.js"
   ]
 }
