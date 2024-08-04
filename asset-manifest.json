@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rs_auto/static/css/main.4af145af.css",
-    "main.js": "/rs_auto/static/js/main.77368db5.js",
+    "main.css": "/rs_auto/static/css/main.3f756774.css",
+    "main.js": "/rs_auto/static/js/main.4da88a51.js",
     "static/js/453.48e651ae.chunk.js": "/rs_auto/static/js/453.48e651ae.chunk.js",
     "static/media/stop.png": "/rs_auto/static/media/stop.07c7e7776689b8746ccb.png",
     "static/media/steering_wheel.png": "/rs_auto/static/media/steering_wheel.5823673962a58ef61445.png",
@@ -13,18 +13,19 @@
     "static/media/rail.png": "/rs_auto/static/media/rail.885dc560e2aa0f38bd39.png",
     "static/media/other.png": "/rs_auto/static/media/other.ec26a007b4264a08279b.png",
     "static/media/telegram.png": "/rs_auto/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/RAYDIS.otf": "/rs_auto/static/media/RAYDIS.5127b83b87eb09c81563.otf",
     "static/media/call.png": "/rs_auto/static/media/call.9f67e819001cd616ba13.png",
     "static/media/color.png": "/rs_auto/static/media/color.f089046275a4f142ac2e.png",
     "static/media/chassis.png": "/rs_auto/static/media/chassis.5d1a424384e966f57adf.png",
     "static/media/electric.png": "/rs_auto/static/media/electric.9afc65d4b3f42d35d8cf.png",
     "static/media/chip.png": "/rs_auto/static/media/chip.8a1d1946203352e328be.png",
     "index.html": "/rs_auto/index.html",
-    "main.4af145af.css.map": "/rs_auto/static/css/main.4af145af.css.map",
-    "main.77368db5.js.map": "/rs_auto/static/js/main.77368db5.js.map",
+    "main.3f756774.css.map": "/rs_auto/static/css/main.3f756774.css.map",
+    "main.4da88a51.js.map": "/rs_auto/static/js/main.4da88a51.js.map",
     "453.48e651ae.chunk.js.map": "/rs_auto/static/js/453.48e651ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4af145af.css",
-    "static/js/main.77368db5.js"
+    "static/css/main.3f756774.css",
+    "static/js/main.4da88a51.js"
   ]
 }
