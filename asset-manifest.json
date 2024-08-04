@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rs_auto/static/css/main.4af145af.css",
-    "main.js": "/rs_auto/static/js/main.f79abff1.js",
+    "main.js": "/rs_auto/static/js/main.77368db5.js",
     "static/js/453.48e651ae.chunk.js": "/rs_auto/static/js/453.48e651ae.chunk.js",
     "static/media/stop.png": "/rs_auto/static/media/stop.07c7e7776689b8746ccb.png",
     "static/media/steering_wheel.png": "/rs_auto/static/media/steering_wheel.5823673962a58ef61445.png",
@@ -20,11 +20,11 @@
     "static/media/chip.png": "/rs_auto/static/media/chip.8a1d1946203352e328be.png",
     "index.html": "/rs_auto/index.html",
     "main.4af145af.css.map": "/rs_auto/static/css/main.4af145af.css.map",
-    "main.f79abff1.js.map": "/rs_auto/static/js/main.f79abff1.js.map",
+    "main.77368db5.js.map": "/rs_auto/static/js/main.77368db5.js.map",
     "453.48e651ae.chunk.js.map": "/rs_auto/static/js/453.48e651ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4af145af.css",
-    "static/js/main.f79abff1.js"
+    "static/js/main.77368db5.js"
   ]
 }
